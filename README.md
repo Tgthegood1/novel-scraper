@@ -40,5 +40,4 @@ fanmtl(
 
 # Requirements
 - Node.js
-- Windows OS (for local paths)
-- Ublock folder required for Fanmtl scraping
+- Ublock folder required only for Fanmtl scraping
