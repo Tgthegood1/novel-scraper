@@ -19,7 +19,7 @@ https://drive.google.com/drive/folders/1_bQ0g131S9xgkAfMhTJqjV1j-WAtWUw2?usp=dri
 
 # Example
 ```
-const { webnovel, fanmtl, fanfiction, firenovel, wtrlab } = require("novel-scraper");
+import { webnovel, fanmtl, fanfiction, firenovel, wtrlab } from "novel-scraper";
 
 // We define variables as parameters for functions.
 const link = "httos://example/Chapter-1.com";   // Link to the first chapter of the novel to scrape
