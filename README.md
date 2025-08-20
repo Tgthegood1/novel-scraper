@@ -31,19 +31,19 @@ const divide = 100;                             // If you want to split the resu
 await webnovel(link, path, divide) // Last parameter divide to split the content by size in KB
 
 
-// Webnovel function
+// Webnovel.com function
 await webnovel(link, path)
 
-// Fanfiction function
+// Fanfiction.net function
 await fanfiction(link, path)
 
-// Fanmtl function, this function *requires* Ublock to avoid errors
+// Fanmtl.com function, this function *requires* Ublock to avoid errors
 await fanmtl(link, path, Ublock)
 
-// Firenovel function, this function *requires* Ublock to avoid errors
+// Firenovel.com function, this function *requires* Ublock to avoid errors
 await firenovel(link, path, Ublock)
 
-// Wtr-lab function, this function *requires* Ublock to avoid errors
+// Wtr-lab.com function, this function *requires* Ublock to avoid errors
 await wtrlab(link, path, Ublock)
 ```
 
