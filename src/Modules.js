@@ -4,10 +4,7 @@ import path from "path";
 
 
 function support_message() {
-  console.log(`
-  ⭐ If you find this module useful, consider supporting me! ⭐
-  💖 Patreon:       : https://patreon.com/Tgthegood52
-  `);
+  console.log("Start!!")
 }
 
 function sleep_seconds(s) {
